@@ -5,7 +5,7 @@ Welcome to my LeetCode solutions repository! Here, I regularly push the code for
 
 ## Profile
 
-Check out my LeetCode profile: [khushalmishra11](https://leetcode.com/khushalmishra11)
+Check out my LeetCode profile: [khushalmishra11](https://leetcode.com/u/khushalmishra11/)
 
 ## Repository Structure
 - Files are named according to the problem title or problem number for easy identification.
